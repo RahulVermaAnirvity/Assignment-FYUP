@@ -1,6 +1,6 @@
 # FYUP Implementation Web Scraper
 
-This project contains the tools and methodology used to identify Indian universities implementing the Four-Year Undergraduate Programme (FYUP) as prescribed by the National Education Policy (NEP) 2020. The core of the project is a robust Python web crawler designed to run on a cloud server to systematically gather data from over a thousand university websites.
+###### This project contains the tools and methodology used to identify Indian universities implementing the Four-Year Undergraduate Programme (FYUP) as prescribed by the National Education Policy (NEP) 2020. The core of the project is a robust Python web crawler designed to run on a cloud server to systematically gather data from over a thousand university websites.
 ---
 ## Tech Stack 💻
 
@@ -12,8 +12,7 @@ This project contains the tools and methodology used to identify Indian universi
 
 
 ---
-## Project Structure
-.
+## Project Structure.
 ├── advanced_crawler1.py             # The main, robust Python scraper script.
 ├── universities.csv                 # The input file with the master list of university URLs.
 └── fyup_advanced_scan_results.csv   # The output file where results are incrementally saved.
